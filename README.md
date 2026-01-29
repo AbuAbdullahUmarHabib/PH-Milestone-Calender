@@ -16,7 +16,7 @@ Each event includes:
 
 ## 📁 File Included
 
-- `programming-hero-schedule.ics`
+- `Milestone [Number].ics`
 
 ---
 
@@ -58,7 +58,7 @@ Google Calendar Android app may not always support direct `.ics` import, so the 
 3. Click ⚙️ **Settings**
 4. Go to **Import & Export**
 5. Click **Select file from your computer**
-6. Choose `programming-hero-schedule.ics`
+6. Choose `Milestone [Number].ics`
 7. Select the calendar you want to import into
 8. Click **Import**
 
@@ -71,7 +71,7 @@ Google Calendar Android app may not always support direct `.ics` import, so the 
 1. Download the `.ics` file
 2. Open https://calendar.google.com
 3. ⚙️ Settings → **Import & Export**
-4. Import `programming-hero-schedule.ics`
+4. Import `Milestone [Number].ics`
 
 ---
 
